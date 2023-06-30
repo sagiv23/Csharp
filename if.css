@@ -1,0 +1,15 @@
+#if{
+    width: 620px;
+}
+
+#else{
+    width: 620px;
+}
+
+#else_if{
+    width: 620px;
+}
+
+#logical_conditions{
+    width: 1000px;
+}
