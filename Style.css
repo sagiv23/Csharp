@@ -16,14 +16,14 @@ nav{
 }
 
 #Icon_Img_nav{
-    height: 60px;
-    width: 60px;
-    margin-left: 60px;
+    height: 70px;
+    width: 200px;
+    margin-left: 20px;
 }
 
 li{
     display: inline-block;
-    margin-left: 50px;
+    margin-right: 50px;
     list-style-type: none;
     color: rgba(245, 234, 234, 0.925);
     -webkit-text-fill-color: rgba(245, 234, 234, 0.925);
@@ -32,34 +32,28 @@ li{
 
 li:hover{
     transition: 1s;
-    color: #A287C4;
-    -webkit-text-fill-color: #A287C4;
+    color: rgb(78,201,176);
+    -webkit-text-fill-color: rgb(78,201,176);
 }
 
 #this{
-    color: #A287C4;
-    -webkit-text-fill-color: #A287C4;
+    color: rgb(78,201,176);
+    -webkit-text-fill-color: rgb(78,201,176);
 }
 
 ul{
-    margin-right: 630px; 
+    margin-right: 250px;
 }
 
 a{
     text-decoration: none;
     font-family: 'Rajdhani', sans-serif;
-    font-size: 45px;
+    font-size: 33px;
     color: black;
 }
 
 body{
     background-color: #A287C4;
-    background-size: 1920px;
-    width: 1904px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 1920px;
-    background-blend-mode:soft-light;
 }
 
 body::-webkit-scrollbar {
@@ -192,8 +186,7 @@ button:hover{
 }
 
 #command{
-    font-weight: bold;
-    -webkit-text-fill-color: rgb(221,120,4);
+    -webkit-text-fill-color: rgb(78,201,176);
     -webkit-text-stroke-width: 1.5px;
 }
 

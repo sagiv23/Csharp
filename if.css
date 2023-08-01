@@ -1,13 +1,13 @@
 #if{
-    width: 620px;
+    width: 1200px;
 }
 
 #else{
-    width: 620px;
+    width: 1200px;
 }
 
 #else_if{
-    width: 620px;
+    width: 1200px;
 }
 
 #logical_conditions{

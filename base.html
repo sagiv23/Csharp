@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="base.css">
     <script src="js.js"></script>
     <title>Sagiv23 - C#</title>
-    <link rel="icon" href="img/icon.png" type="image/icon type">
+    <link rel="icon" href="img/icon_head.png" type="image/icon type">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@200&family=Secular+One&display=swap" rel="stylesheet">
@@ -26,8 +26,10 @@
                 <a href="index.html"> <li>דף הבית</li></a>
                 <a href="base.html"> <li id ="this">הבסיס</li></a>
                 <a href="if.html"> <li>תנאים</li></a>
+                <a href="switch_case.html"> <li>Switch Case</li></a>
+                <a href="math.html"> <li>Math ספריית</li></a>
                 <a href="loops.html"> <li>לולאות</li></a>
-                <a href="####"> <li>Try</li></a>
+                <a href="function.html"> <li>פונקציות</li></a>
             </ul>
         </nav>
     </div>
@@ -58,15 +60,25 @@
                 <h3>משתנים</h3>
                 
                 <h2>?<u>מהם משתנים</u><br>
-                    בתכנות, משתנה הוא חלק מהזיכרון בתוכנה המכילה נתונים שיכולים להשתנות במהלך זמן הריצה, בהתאם להוראות שניתנו לו</h2>>
-                <img src = "img/base/variables_definition.png" id = "variables_definition">
-
-                <h2>.כאשר בוחרים שם למשתנה, אנו רוצים שהשם יסביר את הערך בתוכו</h2>
+                    בתכנות, משתנה הוא חלק מהזיכרון בתוכנה המכילה נתונים שיכולים להשתנות במהלך זמן הריצה, בהתאם להוראות שניתנו לו<br>
+                    כאשר בוחרים שם למשתנה, אנו רוצים שהשם יסביר את הערך בתוכו</h2>
                 <img src = "img/base/variables.png" id = "variables">
         
-                <h2>?ישנם מקרים כי נרצה לקלוט מהשתמש את הערך למשתנה, איך נעשה זאת<br>
+                <h2>?ישנם מקרים כי נרצה לקלוט מהמשתמש את הערך למשתנה, איך נעשה זאת<br>
                     <span id="command">Console.ReadLine();</span> באמצעות</h2>
                 <img src = "img/base/input+print_the_input.png" id = "input">
+
+                <h2><span id="command">סוג_המשתנה = שם_המשתנה.Parse(Console.ReadLine());</span> בטח שמתם לב שכתבנו<br>
+                    .20 בכל מקום חוץ משורה<br>
+                    <span id="command">שם_המשתנה = Console.ReadLine();</span> כשנכתוב רק<br>
+                    .המשתנה ייחשב בתור מחרוזת, אבל תחילה הגדרנו אותו אחרת, לכן תהיה הודעת שגיאה<br>
+                    <span id="command">שם_המשתנה = Console.ReadLine();</span> - לכן כשקולטים מחרוזת נשתמש ב<br>
+                    <span id="command">סוג_המשתנה = שם_המשתנה.Parse(Console.ReadLine());</span> - וכשקולטים כל סוג אחר נשתמש ב</h2>
+                <img src = "img/base/error.png" id = "error">
+
+                <h4 style="font-size: 20px;">סוד</h4>
+                
+                <img src = "img/base/sum_up_input.png" id = "sum_up_input">
 
                 <h3>פעולות מתמטיות</h3>
                 
