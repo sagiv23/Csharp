@@ -54,6 +54,12 @@ a{
 
 body{
     background-color: #A287C4;
+    background-size: 1920px;
+    width: 1904px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1920px;
+    background-blend-mode:soft-light;
 }
 
 body::-webkit-scrollbar {
