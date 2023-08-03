@@ -1,0 +1,15 @@
+#example{
+    width: 1000px;
+}
+
+#without_break{
+    width: 1600px;
+}
+
+#without_default{
+    width: 1300px;
+}
+
+#example_all{
+    width: 1800px;
+}

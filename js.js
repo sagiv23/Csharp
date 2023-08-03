@@ -8,7 +8,7 @@ var Title = new Typed(".headline", {
   strings:["Sagiv23"],
   typeSpeed : 100 , 
   backSpeed : 100 , 
-  loop:true
+  loop: true
 })
 
 function Title_qu() {
