@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-nav {
+nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -13,16 +13,16 @@ nav {
     width: 100%;
     border-bottom: 4px solid;
     border-color: white;
-    height: 75px; 
+    height: 75px;
 }
 
-#Icon_Img_nav {
+#Icon_Img_nav{
     height: 70px;
     width: 200px;
     margin-left: 20px;
 }
 
-li {
+li{
     display: inline-block;
     margin-right: 50px;
     list-style-type: none;
@@ -31,25 +31,25 @@ li {
     -webkit-text-stroke-width: 1px;
 }
 
-li:hover {
+li:hover{
     transition: 1s;
     color: rgb(78, 201, 176);
     -webkit-text-fill-color: rgb(78, 201, 176);
 }
 
-#this {
+#this{
     color: rgb(78, 201, 176);
     -webkit-text-fill-color: rgb(78, 201, 176);
 }
 
-ul {
+ul{
     display: flex;
-    align-items: center; /* Align items vertically centered within the navbar */
+    align-items: center;
     margin-right: 250px;
     list-style-type: none;
 }
 
-a {
+a{
     text-decoration: none;
     font-family: 'Rajdhani', sans-serif;
     font-size: 33px;
