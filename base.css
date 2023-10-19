@@ -1,24 +1,27 @@
 #print{
-    width: 1000px;
     width: 75%;
 }
 
 #print2{
-    width: 800px;
     width: 75%;
+}
+
+#variables{
+    width: 80%;
 }
 
 #input{
-    width: 1340px;
-    width: 83%;
+    width: 85%;
 }
 
 #error{
-    width: 1300px;
     width: 75%;
 }
 
+#sum_up_input{
+    width: 70%;
+}
+
 #math_examples{
-    width: 1200px;
     width: 60%; 
 }
