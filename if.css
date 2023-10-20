@@ -1,13 +1,13 @@
 #if{
-    width: 70%;
+    width: 75%;
 }
 
 #else{
-    width: 70%;
+    width: 75%;
 }
 
 #else_if{
-    width: 70%;
+    width: 75%;
 }
 
 #logical_conditions{
@@ -15,7 +15,7 @@
 }
 
 #zogi_ai_zogi{
-    width: 70%;
+    width: 75%;
 }
 
 #if_in_if{
