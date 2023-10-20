@@ -1,23 +1,23 @@
 #if{
-    width: 1200px;
+    width: 70%;
 }
 
 #else{
-    width: 1200px;
+    width: 70%;
 }
 
 #else_if{
-    width: 1200px;
+    width: 70%;
 }
 
 #logical_conditions{
-    width: 1902px;
+    width: 100%;
 }
 
 #zogi_ai_zogi{
-    width: 1200px;
+    width: 70%;
 }
 
 #if_in_if{
-    width: 1300px;
+    width: 75%;
 }
