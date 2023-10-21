@@ -1,15 +1,19 @@
 #example{
-    width: 1000px;
+    width: 70%;
+}
+
+#Definitions{
+    width: 100%;
 }
 
 #without_break{
-    width: 1600px;
+    width: 93%;
 }
 
 #without_default{
-    width: 1300px;
+    width: 70%;
 }
 
 #example_all{
-    width: 1800px;
+    width: 100%;
 }
